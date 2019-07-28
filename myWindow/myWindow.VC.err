@@ -1,0 +1,11 @@
+/COM,ANSYS RELEASE Release 16.0      BUILD 16.0      UP20141203       18:37:45
+
+ *** FATAL ***                           CP =       1.092   TIME= 18:37:49
+ The memory (-m) size requested [2112 mb] is not currently available.    
+ Reenter ANSYS command line with less memory requested.                  
+
+ ************************************************************************
+ The above error is non-recoverable by ANSYS                             
+  ANSYS run terminated by the indicated error                            
+  Current data base saved if possible.                                   
+ ************************************************************************
